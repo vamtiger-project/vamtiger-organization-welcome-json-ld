@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-organization-welcome-json-ld",
-    "version": "0.0.2",
+    "version": "0.0.3-0",
     "description": "VAMTIGER Organization Welcome JSON-LD ",
     "main": "build/vamtiger-organization-welcome-json-ld",
     "scripts": {

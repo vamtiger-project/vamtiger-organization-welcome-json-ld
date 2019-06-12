@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-organization-welcome-json-ld';
+export const url = 'https://cdn.jsdelivr.net/npm/vamtiger-organization-welcome-json-ld@latest/build/vamtiger-organization-welcome-json-ld.js';

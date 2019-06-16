@@ -1,16 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const jsonLd = {
+var jsonLd = {
     '@context': 'http://schema.org',
     '@type': 'Organization',
     name: 'Welcome',
-    description: `
-        Wellcome exists to improve health by helping great ideas to thrive.
-        We support researchers, we take on big health challenges,
-        we campaign for better science, and we help everyone get involved with
-        science and health research.
-        We are a politically and financially independent foundation.
-    `,
+    description: "\n        Wellcome exists to improve health by helping great ideas to thrive.\n        We support researchers, we take on big health challenges,\n        we campaign for better science, and we help everyone get involved with\n        science and health research.\n        We are a politically and financially independent foundation.\n    ",
     url: 'https://wellcome.ac.uk'
 };
 exports.default = [

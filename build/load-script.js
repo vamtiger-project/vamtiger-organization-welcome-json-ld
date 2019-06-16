@@ -1,10 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const { stringify } = JSON;
-function default_1({ type, url: jsonLd, data: currentData }) {
-    const { head } = document;
-    const script = document.createElement('script');
-    const data = Object.keys(currentData).length && currentData;
+var stringify = JSON.stringify;
+function default_1(_a) {
+    var type = _a.type, jsonLd = _a.url, currentData = _a.data;
+    var head = document.head;
+    var script = document.createElement('script');
+    var data = Object.keys(currentData).length && currentData;
     script.type = type;
     script.dataset.jsonLd = jsonLd;
     if (data) {

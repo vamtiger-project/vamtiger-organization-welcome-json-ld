@@ -1,0 +1,2 @@
+!function(e,o){"use strict";const{VamtigerBrowserMethod:t}=window,{loadScript:n}=t;o.setup("bdd"),(()=>describe("vamtiger-organization-welcome-json-ld",function(){before(async function(){await n({src:"vamtiger-organization-welcome-json-ld.js"})}),it("load script",async function(){const o=document.head.querySelector('[src="vamtiger-organization-welcome-json-ld.js"]');e.expect(o instanceof HTMLScriptElement).to.be.true})}))(),o.run()}(chai,mocha);
+//# sourceMappingURL=browser.js.map

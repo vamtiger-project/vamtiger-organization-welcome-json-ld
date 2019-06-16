@@ -1,0 +1,1 @@
+{"version":3,"file":"json-ld.js","sourceRoot":"","sources":["../source/json-ld.ts"],"names":[],"mappings":";;AAAA,MAAM,MAAM,GAAG;IACX,UAAU,EAAE,mBAAmB;IAC/B,OAAO,EAAE,cAAc;IACvB,IAAI,EAAE,SAAS;IACf,WAAW,EAAE;;;;;;KAMZ;IACD,GAAG,EAAE,wBAAwB;CAChC,CAAC;AAEF,kBAAe;IACX,MAAM;CACT,CAAC"}
